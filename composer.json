@@ -1,0 +1,11 @@
+{
+    "name": "kodmanyagha/oop-wrapper",
+    "description": "Object Oriented wrappers for PHP functions.",
+    "authors": [
+        {
+            "name": "Emir Buğra KÖKSALAN",
+            "email": "kodmanyagha@gmail.com"
+        }
+    ],
+    "require": {}
+}
